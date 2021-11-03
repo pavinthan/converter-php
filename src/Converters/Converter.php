@@ -2,7 +2,6 @@
 
 namespace App\Converters;
 
-
 abstract class Converter
 {
     protected $units = [];
